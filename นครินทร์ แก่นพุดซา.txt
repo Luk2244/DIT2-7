@@ -19,6 +19,8 @@
 
 6.หลังจากนั้นกดคำว่า Commit changes
 
+
+
 การเพิ่ม User ในRepository
 
 1.กดไปที่คำว่า Setting
@@ -27,4 +29,42 @@
 
 3.ตรง Montage Access กดคำว่า Add People
 
-4.พิมพ์ชื่อของ User ที่เราต้องการเพิ่ม หลังจากนั้นกด Add to repository 
+4.พิมพ์ชื่อของ User ที่เราต้องการเพิ่ม หลังจากนั้นกด Add to repository
+
+
+
+ออกจากกลุ่ม
+
+1.กดโปรไฟล์
+
+2.กด Repoittories เลือกเพื่อนหรือกลุ่ม
+
+3.กดLeave
+
+
+
+การโหลด Git ลง VS code
+
+1.กดไปที่ Sovrce Control (Ctrl + Shift + G)ตรงแถบด้านซ้าย
+1.1)กดคำว่า Domlood Git for Windows ตรงแถบ Source Control
+
+2.กดคำว่า Git for Windows/x64 Setup.
+
+3.เมื่อโฟลดเสร็จแล้วให้ทำการเปิดไฟล์ที่ดาวโหลด และกดยอมรับเงื่อนไขทั้งหมดเพื่อที่จะทำการดาวน์โหลด ให้กกคำว่า Next
+
+4.เมื่อดาวน์โหลดเสร็จสิ้น ให้กดคำว่า Finish
+
+5.ให้ทำหารเปิด VS code ขึ้นมาอีกครั้ง
+
+6.กดไปที่หน้า Source Code อีกครั้งและกดคำว่า Clone Repository 
+
+7.กดคำว่า Clone from GitHub
+7.1)กดคำว่า Allow
+
+8.ใส่ชื่อบัญชีของ GitHub เพื่อ Login
+8.1)กกคำว่า Authorise Visval-Studio-Code
+8.2)กดคำว่า Open
+
+9.กดเลือก Repository ของตนเองบน VS code
+9.1)เลือกตำแหน่งไฟล์ Repository และกด Select as Repository Destination
+9.2)กดคำว่า Open
