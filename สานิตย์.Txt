@@ -1,0 +1,13 @@
+ขั้นตอนการสร้าง project
+1.  เข้า Githup แล้ว กด Login ด้วยไอดีที่สร้างไว้ กด Create New แล้วกดที่ New repository แล้วใส่รายละเอียด เช่น ชื่องาน สิ่งที่กำลังทำ แล้วกด create repository
+2. กดที่ add file แล้วกด Upload file ให้เลือกว่าจะลาก file ลงมา หรือเลือกเอง แล้วกด Commit Dhanges
+
+ขั้นตอนการเพิ่มเพื่อน
+3. กดที่ Setting แล้วเลือกไปที่ collaburators แล้วกดที่ Add People แล้วใส่ชื่อเพื่อนเพื่อนำเข้ากลุ่ม แล้วกด Add to repository
+ 
+ขั้นตอนการออกจากกลุ่ม
+4. การออกจากกลุ่มให้ไปกดที่โปรไฟลืของตัวเอง แล้วกด Setting แล้วเลื่อนลงไปกดที่ที่ Repositories แล้วกด Leave ออกจากลุ่มที่เลือก
+
+การเชื่อม VS Code เข้ากับ  Git
+5. เข้า VS Code แล้วกดโหลด Git Hub โดยเข้าที่ Source Control แล้วกด  Download Git For Windows เลือก Git for Windows x64 Setup
+6. เมื่อโหลดเสร็จให้กด Accounts - Sign in to use Copilot ลงทะเบียน Git
