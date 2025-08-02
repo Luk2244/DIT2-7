@@ -14,3 +14,17 @@
 4 เสร็จแล้วกดคำว่า Add file เพื่อเพิ่มไฟล์งานของตัวเอง
 4.1)สามารถสร้างไฟล์งานได้ + Create new file
 4.2)สามารถอัพโหลดไฟล์ได้ ^ Upload file
+
+5.ลากไฟล์ หรือเลือกไฟล์งานที่ต้องการ Upload file 
+
+6.หลังจากนั้นกดคำว่า Commit changes
+
+การเพิ่ม User ในRepository
+
+1.กดไปที่คำว่า Setting
+
+2.หาคำว่า Access ตรงแถวฝั่งซ้าย และกดคำว่า Collaborators
+
+3.ตรง Montage Access กดคำว่า Add People
+
+4.พิมพ์ชื่อของ User ที่เราต้องการเพิ่ม หลังจากนั้นกด Add to repository 
