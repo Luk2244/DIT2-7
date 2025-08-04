@@ -1,0 +1,13 @@
+ขั้นตอนการสร้าง project 
+
+1.ไปที่สัญลักษณ์ + เลือก new Reposity ตั้งค่าใส่ชื่องาน รายละเอียด กด create Reposity
+1.1ตั้งค่า create ใส่ชื่อ reposity ใส่รายละเอียด description
+1.2ตั้งค่าความเป็นส่วนตัว เป็น public สาธารณะ
+1.3ตั้งค่าให้สามารถเพิ่มไฟล์ได้ที่ add a READEME file
+2.คลิก add file - upload files - choose your files - เลือก commit directly to  the main branch - คลิก commit change
+3.เพิ่มเงื่อนไขสามารถเข้าถึง project โดยไปที่ setting เลือก collaborators แล้ว กด add people  และค้นหาชื่อเพื่อน (ชื่อผู้ใช้)
+4.ถ้าต้องการจะออกจากกลุ่มงานให้ไปที่ไอคอน Profile ผู้ใช้งานเลือก Settiugs  ไป Repositories จะปรากฏ กลุ่มที่อยู่ทั้งหมด สามารถ กด Leave เพื่อออกจากกลุ่มที่ต้องการ
+5.เชื่อมต่อ git  โดยการเข้าไปใน vs code  ไปที่ Source  Control 
+เลือก  Download  Git for windows  เลือก git  for windows x64 setup
+6.เมื่อดาวโหลด เสร็จกด Accounts - Sign in to use  Copilot
+ลงทะเบียนใช้ Git
